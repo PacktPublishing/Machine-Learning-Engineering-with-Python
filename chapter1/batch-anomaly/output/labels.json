@@ -1,0 +1,2802 @@
+[
+  {
+    "ride_dist": 8.7670954908,
+    "ride_time": 0.4248960623,
+    "ride_speed": 20.6335060931,
+    "ride_id": "202102060",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.943881118,
+    "ride_time": 0.1298863792,
+    "ride_speed": 30.3640854639,
+    "ride_id": "202102061",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.900040705,
+    "ride_time": 0.1384224587,
+    "ride_speed": 28.1749128071,
+    "ride_id": "202102062",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.6730805989,
+    "ride_time": 0.3240398822,
+    "ride_speed": 29.8515125195,
+    "ride_id": "202102063",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.2241701563,
+    "ride_time": 0.0074352413,
+    "ride_speed": 30.149681351,
+    "ride_id": "202102064",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.1531405554,
+    "ride_time": 0.0362177876,
+    "ride_speed": 31.8390666974,
+    "ride_id": "202102065",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.6740779744,
+    "ride_time": 0.0215535871,
+    "ride_speed": 31.2745146118,
+    "ride_id": "202102066",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.119481162,
+    "ride_time": 0.0038182494,
+    "ride_speed": 31.2921313505,
+    "ride_id": "202102067",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.6931952163,
+    "ride_time": 0.0239928524,
+    "ride_speed": 28.8917384538,
+    "ride_id": "202102068",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.8578715291,
+    "ride_time": 0.2261174509,
+    "ride_speed": 21.4838417413,
+    "ride_id": "202102069",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.7961730177,
+    "ride_time": 0.1565978023,
+    "ride_speed": 24.2415472183,
+    "ride_id": "2021020610",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.3723266291,
+    "ride_time": 0.1226469516,
+    "ride_speed": 27.4962123773,
+    "ride_id": "2021020611",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.4510435074,
+    "ride_time": 0.0998631996,
+    "ride_speed": 34.5577101582,
+    "ride_id": "2021020612",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.4929961796,
+    "ride_time": 0.2315150365,
+    "ride_speed": 23.7263041882,
+    "ride_id": "2021020613",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.363394053,
+    "ride_time": 0.0671035535,
+    "ride_speed": 35.2201027996,
+    "ride_id": "2021020614",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.3622008779,
+    "ride_time": 0.3441788122,
+    "ride_speed": 27.2015607762,
+    "ride_id": "2021020615",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.9913298312,
+    "ride_time": 0.2189249538,
+    "ride_speed": 27.3670485076,
+    "ride_id": "2021020616",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.6934689761,
+    "ride_time": 0.2671347453,
+    "ride_speed": 21.313097888,
+    "ride_id": "2021020617",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.00173421,
+    "ride_time": 0.2410007492,
+    "ride_speed": 33.2021134265,
+    "ride_id": "2021020618",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.5747892671,
+    "ride_time": 0.2293594135,
+    "ride_speed": 33.0258486152,
+    "ride_id": "2021020619",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.680480874,
+    "ride_time": 0.2244199355,
+    "ride_speed": 34.2237014637,
+    "ride_id": "2021020620",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.9256868784,
+    "ride_time": 0.0749429406,
+    "ride_speed": 25.6953738773,
+    "ride_id": "2021020621",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.408472978,
+    "ride_time": 0.1796895875,
+    "ride_speed": 30.0989782095,
+    "ride_id": "2021020622",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.686865,
+    "ride_time": 0.1463168819,
+    "ride_speed": 32.032291406,
+    "ride_id": "2021020623",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.9592705875,
+    "ride_time": 0.2592374188,
+    "ride_speed": 30.702630144,
+    "ride_id": "2021020624",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.1173771841,
+    "ride_time": 0.4040181711,
+    "ride_speed": 17.6164779022,
+    "ride_id": "2021020625",
+    "label": -1
+  },
+  {
+    "ride_dist": 0.8611104764,
+    "ride_time": 0.0266548358,
+    "ride_speed": 32.3059756993,
+    "ride_id": "2021020626",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.6031754529,
+    "ride_time": 0.0193883006,
+    "ride_speed": 31.1102796152,
+    "ride_id": "2021020627",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.612805993,
+    "ride_time": 0.0782652694,
+    "ride_speed": 20.6069180572,
+    "ride_id": "2021020628",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.874122228,
+    "ride_time": 0.2430292607,
+    "ride_speed": 36.5146246326,
+    "ride_id": "2021020629",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.1700564183,
+    "ride_time": 0.09178025,
+    "ride_speed": 23.6440456265,
+    "ride_id": "2021020630",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.0237538684,
+    "ride_time": 0.2428507325,
+    "ride_speed": 28.9221028687,
+    "ride_id": "2021020631",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.8145041383,
+    "ride_time": 0.2246062627,
+    "ride_speed": 30.3397779598,
+    "ride_id": "2021020632",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.3998856324,
+    "ride_time": 0.0854147096,
+    "ride_speed": 39.8044510989,
+    "ride_id": "2021020633",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.2172337259,
+    "ride_time": 0.3550151742,
+    "ride_speed": 25.9629289026,
+    "ride_id": "2021020634",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.910494031,
+    "ride_time": 0.1117460445,
+    "ride_speed": 34.9944738258,
+    "ride_id": "2021020635",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.689371461,
+    "ride_time": 0.0584820247,
+    "ride_speed": 28.8870207334,
+    "ride_id": "2021020636",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.1284795745,
+    "ride_time": 0.1506867333,
+    "ride_speed": 27.397764113,
+    "ride_id": "2021020637",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.6209323454,
+    "ride_time": 0.0201129687,
+    "ride_speed": 30.8722374012,
+    "ride_id": "2021020638",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.7153854793,
+    "ride_time": 0.2153033806,
+    "ride_speed": 31.1903392401,
+    "ride_id": "2021020639",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.0573178688,
+    "ride_time": 0.0962579625,
+    "ride_speed": 31.7617139372,
+    "ride_id": "2021020640",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.7478485077,
+    "ride_time": 0.3090536205,
+    "ride_speed": 28.3052775521,
+    "ride_id": "2021020641",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.8865820716,
+    "ride_time": 0.1567930745,
+    "ride_speed": 24.787970291,
+    "ride_id": "2021020642",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.2813587811,
+    "ride_time": 0.2520479057,
+    "ride_speed": 32.8562888027,
+    "ride_id": "2021020643",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.4587270775,
+    "ride_time": 0.1458522768,
+    "ride_speed": 37.4264097802,
+    "ride_id": "2021020644",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.6984639516,
+    "ride_time": 0.3983203854,
+    "ride_speed": 21.8378578421,
+    "ride_id": "2021020645",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.0901222714,
+    "ride_time": 0.034920452,
+    "ride_speed": 31.2173012764,
+    "ride_id": "2021020646",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.6999284981,
+    "ride_time": 0.2958684061,
+    "ride_speed": 29.4047229036,
+    "ride_id": "2021020647",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.3511590586,
+    "ride_time": 0.2950667296,
+    "ride_speed": 28.3026116524,
+    "ride_id": "2021020648",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.0210127599,
+    "ride_time": 0.1138440976,
+    "ride_speed": 26.5364021853,
+    "ride_id": "2021020649",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.2808636938,
+    "ride_time": 0.3062571485,
+    "ride_speed": 30.3041536839,
+    "ride_id": "2021020650",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.7872372233,
+    "ride_time": 0.1813952405,
+    "ride_speed": 20.8783715231,
+    "ride_id": "2021020651",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.0159483039,
+    "ride_time": 0.0006097812,
+    "ride_speed": 26.1541401727,
+    "ride_id": "2021020652",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.8772968329,
+    "ride_time": 0.1587881099,
+    "ride_speed": 30.7157559564,
+    "ride_id": "2021020653",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.2648324805,
+    "ride_time": 0.2147752055,
+    "ride_speed": 33.8252847389,
+    "ride_id": "2021020654",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.5845784499,
+    "ride_time": 0.2007300449,
+    "ride_speed": 32.8031533696,
+    "ride_id": "2021020655",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.9519546772,
+    "ride_time": 0.1084865474,
+    "ride_speed": 27.2103292864,
+    "ride_id": "2021020656",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.313499992,
+    "ride_time": 0.1942866441,
+    "ride_speed": 27.3487661356,
+    "ride_id": "2021020657",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.345093357,
+    "ride_time": 0.155256727,
+    "ride_speed": 27.9865062322,
+    "ride_id": "2021020658",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.5538884039,
+    "ride_time": 0.3362190907,
+    "ride_speed": 28.4156630854,
+    "ride_id": "2021020659",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.9988031111,
+    "ride_time": 0.2103544593,
+    "ride_speed": 33.271474886,
+    "ride_id": "2021020660",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.1984081566,
+    "ride_time": 0.0331948865,
+    "ride_speed": 36.1021917531,
+    "ride_id": "2021020661",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.4985815611,
+    "ride_time": 0.2092515191,
+    "ride_speed": 26.2773794232,
+    "ride_id": "2021020662",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.452285125,
+    "ride_time": 0.2986126692,
+    "ride_speed": 28.3051792412,
+    "ride_id": "2021020663",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.0298993222,
+    "ride_time": 0.0786291572,
+    "ride_speed": 38.534042992,
+    "ride_id": "2021020664",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.7924501599,
+    "ride_time": 0.2264726524,
+    "ride_speed": 34.4079078684,
+    "ride_id": "2021020665",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.0657777843,
+    "ride_time": 0.1178359691,
+    "ride_speed": 34.503707279,
+    "ride_id": "2021020666",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.0992545932,
+    "ride_time": 0.1517754139,
+    "ride_speed": 27.0086866412,
+    "ride_id": "2021020667",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.6771338468,
+    "ride_time": 0.2426386089,
+    "ride_speed": 31.6401989041,
+    "ride_id": "2021020668",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.1328532324,
+    "ride_time": 0.0719983355,
+    "ride_speed": 29.6236464178,
+    "ride_id": "2021020669",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.4592990701,
+    "ride_time": 0.2299451335,
+    "ride_speed": 28.0906100093,
+    "ride_id": "2021020670",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.2011760746,
+    "ride_time": 0.1173051052,
+    "ride_speed": 35.8140940889,
+    "ride_id": "2021020671",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.7561498598,
+    "ride_time": 0.0838696731,
+    "ride_speed": 32.8622940386,
+    "ride_id": "2021020672",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.0281940398,
+    "ride_time": 0.0657071871,
+    "ride_speed": 30.8671566968,
+    "ride_id": "2021020673",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.9981360456,
+    "ride_time": 0.2421547472,
+    "ride_speed": 24.7698470252,
+    "ride_id": "2021020674",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.4905565171,
+    "ride_time": 0.0527072438,
+    "ride_speed": 28.2799176952,
+    "ride_id": "2021020675",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.5417137791,
+    "ride_time": 0.291996828,
+    "ride_speed": 25.8280674888,
+    "ride_id": "2021020676",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.7356093231,
+    "ride_time": 0.1906940691,
+    "ride_speed": 40.5655475195,
+    "ride_id": "2021020677",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.7911001399,
+    "ride_time": 0.2027702145,
+    "ride_speed": 38.4232968279,
+    "ride_id": "2021020678",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.5674448209,
+    "ride_time": 0.1882234657,
+    "ride_speed": 29.5789093061,
+    "ride_id": "2021020679",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.3709539113,
+    "ride_time": 0.1933030025,
+    "ride_speed": 27.7851551327,
+    "ride_id": "2021020680",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.7981460481,
+    "ride_time": 0.1633781254,
+    "ride_speed": 29.3683504893,
+    "ride_id": "2021020681",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.0611812473,
+    "ride_time": 0.2726352381,
+    "ride_speed": 33.2355469118,
+    "ride_id": "2021020682",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.8956770291,
+    "ride_time": 0.4264387208,
+    "ride_speed": 20.8603876579,
+    "ride_id": "2021020683",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.3258673889,
+    "ride_time": 0.3823823409,
+    "ride_speed": 21.773671267,
+    "ride_id": "2021020684",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.8087728616,
+    "ride_time": 0.06484683,
+    "ride_speed": 27.8930035735,
+    "ride_id": "2021020685",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.2296596206,
+    "ride_time": 0.0835705582,
+    "ride_speed": 26.679965624,
+    "ride_id": "2021020686",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.5729849122,
+    "ride_time": 0.2818341453,
+    "ride_speed": 30.4185459972,
+    "ride_id": "2021020687",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.885647137,
+    "ride_time": 0.235936403,
+    "ride_speed": 29.1843354767,
+    "ride_id": "2021020688",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.9425661318,
+    "ride_time": 0.359824477,
+    "ride_speed": 22.0734459173,
+    "ride_id": "2021020689",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.3578901016,
+    "ride_time": 0.1694987598,
+    "ride_speed": 25.7104542121,
+    "ride_id": "2021020690",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.7057532448,
+    "ride_time": 0.1859957236,
+    "ride_speed": 36.0532657243,
+    "ride_id": "2021020691",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.740662057,
+    "ride_time": 0.2425657874,
+    "ride_speed": 31.9115986619,
+    "ride_id": "2021020692",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.9610407998,
+    "ride_time": 0.2843955897,
+    "ride_speed": 31.5090709026,
+    "ride_id": "2021020693",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.8672126081,
+    "ride_time": 0.0515026539,
+    "ride_speed": 36.2546872271,
+    "ride_id": "2021020694",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.4133369738,
+    "ride_time": 0.223058045,
+    "ride_speed": 42.2012887854,
+    "ride_id": "2021020695",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.4186291266,
+    "ride_time": 0.0944496032,
+    "ride_speed": 36.195272498,
+    "ride_id": "2021020696",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.5477166139,
+    "ride_time": 0.4063394148,
+    "ride_speed": 23.4969000467,
+    "ride_id": "2021020697",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.9054884703,
+    "ride_time": 0.0254314821,
+    "ride_speed": 35.6050216696,
+    "ride_id": "2021020698",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.4986918471,
+    "ride_time": 0.395071936,
+    "ride_speed": 24.0429425181,
+    "ride_id": "2021020699",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.9616998929,
+    "ride_time": 0.1760865207,
+    "ride_speed": 22.4985982916,
+    "ride_id": "20210206100",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.2379299602,
+    "ride_time": 0.0646927465,
+    "ride_speed": 34.5932130264,
+    "ride_id": "20210206101",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.5680240418,
+    "ride_time": 0.1039419819,
+    "ride_speed": 24.7063216977,
+    "ride_id": "20210206102",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.5367934158,
+    "ride_time": 0.2797277117,
+    "ride_speed": 30.5182256178,
+    "ride_id": "20210206103",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.1227839707,
+    "ride_time": 0.0733799175,
+    "ride_speed": 28.9286775245,
+    "ride_id": "20210206104",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.8956638149,
+    "ride_time": 0.2127105599,
+    "ride_speed": 27.7168365145,
+    "ride_id": "20210206105",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.514746568,
+    "ride_time": 0.1234767252,
+    "ride_speed": 36.5635431364,
+    "ride_id": "20210206106",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.2828959007,
+    "ride_time": 0.0413896639,
+    "ride_speed": 30.9955621481,
+    "ride_id": "20210206107",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.4472869333,
+    "ride_time": 0.0502899672,
+    "ride_speed": 28.7788402966,
+    "ride_id": "20210206108",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.7076341272,
+    "ride_time": 0.2835117494,
+    "ride_speed": 27.1862952513,
+    "ride_id": "20210206109",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.1533783351,
+    "ride_time": 0.1737465517,
+    "ride_speed": 35.4158299738,
+    "ride_id": "20210206110",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.0411829625,
+    "ride_time": 0.1184070569,
+    "ride_speed": 34.1295786734,
+    "ride_id": "20210206111",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.3956815852,
+    "ride_time": 0.1256795178,
+    "ride_speed": 27.0185758605,
+    "ride_id": "20210206112",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.4265986492,
+    "ride_time": 0.1471850629,
+    "ride_speed": 36.8692212475,
+    "ride_id": "20210206113",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.2130174521,
+    "ride_time": 0.1426555336,
+    "ride_speed": 36.5426935942,
+    "ride_id": "20210206114",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.7859165519,
+    "ride_time": 0.1354924304,
+    "ride_speed": 35.3223906254,
+    "ride_id": "20210206115",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.6022729775,
+    "ride_time": 0.2839946812,
+    "ride_speed": 26.7690681539,
+    "ride_id": "20210206116",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.4789764323,
+    "ride_time": 0.3820110115,
+    "ride_speed": 24.8133591648,
+    "ride_id": "20210206117",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.1322249768,
+    "ride_time": 0.2468951774,
+    "ride_speed": 24.8373623247,
+    "ride_id": "20210206118",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.6739409639,
+    "ride_time": 0.1072837738,
+    "ride_speed": 24.9240017387,
+    "ride_id": "20210206119",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.5626346565,
+    "ride_time": 0.0627576716,
+    "ride_speed": 40.8338070811,
+    "ride_id": "20210206120",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.3023431111,
+    "ride_time": 0.0097845548,
+    "ride_speed": 30.9000376166,
+    "ride_id": "20210206121",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.6464978323,
+    "ride_time": 0.2354446815,
+    "ride_speed": 32.4768339842,
+    "ride_id": "20210206122",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.2174034435,
+    "ride_time": 0.2707333862,
+    "ride_speed": 30.3523830543,
+    "ride_id": "20210206123",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.5754788629,
+    "ride_time": 0.0788101569,
+    "ride_speed": 19.9908098879,
+    "ride_id": "20210206124",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.9941440558,
+    "ride_time": 0.034600662,
+    "ride_speed": 28.7319374021,
+    "ride_id": "20210206125",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.5619005902,
+    "ride_time": 0.3818729851,
+    "ride_speed": 22.4208072411,
+    "ride_id": "20210206126",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.4244264162,
+    "ride_time": 0.1286504932,
+    "ride_speed": 26.6180589862,
+    "ride_id": "20210206127",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.9894678611,
+    "ride_time": 0.228742346,
+    "ride_speed": 26.1843421867,
+    "ride_id": "20210206128",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.644805325,
+    "ride_time": 0.2978360121,
+    "ride_speed": 22.3102816829,
+    "ride_id": "20210206129",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.0604947955,
+    "ride_time": 0.2015412056,
+    "ride_speed": 30.0707479547,
+    "ride_id": "20210206130",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.4268249729,
+    "ride_time": 0.0376778458,
+    "ride_speed": 37.8690697926,
+    "ride_id": "20210206131",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.5020364637,
+    "ride_time": 0.1179103058,
+    "ride_speed": 38.1818742054,
+    "ride_id": "20210206132",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.0528074721,
+    "ride_time": 0.0835747888,
+    "ride_speed": 36.5278514876,
+    "ride_id": "20210206133",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.111073515,
+    "ride_time": 0.0733269647,
+    "ride_speed": 28.7898663766,
+    "ride_id": "20210206134",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.808677002,
+    "ride_time": 0.0275092944,
+    "ride_speed": 29.3965010081,
+    "ride_id": "20210206135",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.1419901708,
+    "ride_time": 0.2519686915,
+    "ride_speed": 24.3760053451,
+    "ride_id": "20210206136",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.7749465371,
+    "ride_time": 0.4027245586,
+    "ride_speed": 24.2720398548,
+    "ride_id": "20210206137",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.7072406804,
+    "ride_time": 0.1875809012,
+    "ride_speed": 41.0875554536,
+    "ride_id": "20210206138",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.9131916243,
+    "ride_time": 0.1159218931,
+    "ride_speed": 25.1306422491,
+    "ride_id": "20210206139",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.6071777822,
+    "ride_time": 0.3508133743,
+    "ride_speed": 24.5349191734,
+    "ride_id": "20210206140",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.2438971573,
+    "ride_time": 0.3368810702,
+    "ride_speed": 21.5028322966,
+    "ride_id": "20210206141",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.3748966373,
+    "ride_time": 0.1928602946,
+    "ride_speed": 33.0544794201,
+    "ride_id": "20210206142",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.8134134017,
+    "ride_time": 0.1040153884,
+    "ride_speed": 27.0480497629,
+    "ride_id": "20210206143",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.9193795822,
+    "ride_time": 0.2054923553,
+    "ride_speed": 33.6721995012,
+    "ride_id": "20210206144",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.947781626,
+    "ride_time": 0.1433597915,
+    "ride_speed": 34.5130358767,
+    "ride_id": "20210206145",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.5217857161,
+    "ride_time": 0.2523517629,
+    "ride_speed": 25.8440267731,
+    "ride_id": "20210206146",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.5813665809,
+    "ride_time": 0.0587225467,
+    "ride_speed": 43.9586960064,
+    "ride_id": "20210206147",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.1352952908,
+    "ride_time": 0.1732960973,
+    "ride_speed": 29.633069471,
+    "ride_id": "20210206148",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.8953917899,
+    "ride_time": 0.3419282973,
+    "ride_speed": 26.0153718165,
+    "ride_id": "20210206149",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.7033501006,
+    "ride_time": 0.1917627027,
+    "ride_speed": 34.9564853089,
+    "ride_id": "20210206150",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.6428292404,
+    "ride_time": 0.1066099539,
+    "ride_speed": 24.7897043684,
+    "ride_id": "20210206151",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.9666975816,
+    "ride_time": 0.2137440943,
+    "ride_speed": 32.5936377472,
+    "ride_id": "20210206152",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.7453643713,
+    "ride_time": 0.1965132058,
+    "ride_speed": 24.1478141478,
+    "ride_id": "20210206153",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.2302275791,
+    "ride_time": 0.1918608794,
+    "ride_speed": 32.4726312036,
+    "ride_id": "20210206154",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.9873988634,
+    "ride_time": 0.2303567199,
+    "ride_speed": 30.3329499824,
+    "ride_id": "20210206155",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.0669016004,
+    "ride_time": 0.0351208515,
+    "ride_speed": 30.3780106107,
+    "ride_id": "20210206156",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.3721134787,
+    "ride_time": 0.3165523404,
+    "ride_speed": 26.4478015471,
+    "ride_id": "20210206157",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.9453463236,
+    "ride_time": 0.1665003995,
+    "ride_speed": 35.7077000416,
+    "ride_id": "20210206158",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.015026964,
+    "ride_time": 0.1613370699,
+    "ride_speed": 24.8859544036,
+    "ride_id": "20210206159",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.8555887277,
+    "ride_time": 0.3146835784,
+    "ride_speed": 18.6078624025,
+    "ride_id": "20210206160",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.3485122371,
+    "ride_time": 0.1817575156,
+    "ride_speed": 29.4266359108,
+    "ride_id": "20210206161",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.454849638,
+    "ride_time": 0.0758445252,
+    "ride_speed": 32.3668667142,
+    "ride_id": "20210206162",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.7679211702,
+    "ride_time": 0.0605029668,
+    "ride_speed": 29.2204045917,
+    "ride_id": "20210206163",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.1537619245,
+    "ride_time": 0.0314297957,
+    "ride_speed": 36.7091766683,
+    "ride_id": "20210206164",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.3990105067,
+    "ride_time": 0.2810645559,
+    "ride_speed": 29.882851928,
+    "ride_id": "20210206165",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.6692064622,
+    "ride_time": 0.3321785903,
+    "ride_speed": 26.0980289418,
+    "ride_id": "20210206166",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.5657163585,
+    "ride_time": 0.1513846698,
+    "ride_speed": 30.1597008745,
+    "ride_id": "20210206167",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.9566468976,
+    "ride_time": 0.3596463712,
+    "ride_speed": 24.9040380084,
+    "ride_id": "20210206168",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.0300759394,
+    "ride_time": 0.0672521595,
+    "ride_speed": 30.1860334932,
+    "ride_id": "20210206169",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.879357883,
+    "ride_time": 0.0298595276,
+    "ride_speed": 29.4498256673,
+    "ride_id": "20210206170",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.5370028952,
+    "ride_time": 0.2236313444,
+    "ride_speed": 33.7028018827,
+    "ride_id": "20210206171",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.0557686847,
+    "ride_time": 0.1838817663,
+    "ride_speed": 38.3712253003,
+    "ride_id": "20210206172",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.7070283372,
+    "ride_time": 0.0647993269,
+    "ride_speed": 26.3433035254,
+    "ride_id": "20210206173",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.0407798195,
+    "ride_time": 0.2424127269,
+    "ride_speed": 37.2949883292,
+    "ride_id": "20210206174",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.6662379114,
+    "ride_time": 0.1683389,
+    "ride_speed": 21.7789109404,
+    "ride_id": "20210206175",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.6158284486,
+    "ride_time": 0.2614048406,
+    "ride_speed": 36.7851965744,
+    "ride_id": "20210206176",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.4848402862,
+    "ride_time": 0.2139792267,
+    "ride_speed": 30.305933837,
+    "ride_id": "20210206177",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.0338364139,
+    "ride_time": 0.0393401548,
+    "ride_speed": 26.2794190267,
+    "ride_id": "20210206178",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.0688278143,
+    "ride_time": 0.1424463892,
+    "ride_speed": 28.5639238532,
+    "ride_id": "20210206179",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.5438752053,
+    "ride_time": 0.0389901468,
+    "ride_speed": 39.5965476867,
+    "ride_id": "20210206180",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.3482023462,
+    "ride_time": 0.06882552,
+    "ride_speed": 19.5886983069,
+    "ride_id": "20210206181",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.2233393685,
+    "ride_time": 0.2188793117,
+    "ride_speed": 28.4327436892,
+    "ride_id": "20210206182",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.6602894738,
+    "ride_time": 0.164267319,
+    "ride_speed": 34.4577942057,
+    "ride_id": "20210206183",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.3992658532,
+    "ride_time": 0.3091938914,
+    "ride_speed": 30.3992611572,
+    "ride_id": "20210206184",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.4508409668,
+    "ride_time": 0.1574980383,
+    "ride_speed": 28.2596597135,
+    "ride_id": "20210206185",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.4711828651,
+    "ride_time": 0.2606828282,
+    "ride_speed": 24.8239706044,
+    "ride_id": "20210206186",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.2382773953,
+    "ride_time": 0.3809460012,
+    "ride_speed": 21.625840325,
+    "ride_id": "20210206187",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.734154944,
+    "ride_time": 0.2323293376,
+    "ride_speed": 28.9853834846,
+    "ride_id": "20210206188",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.5586750083,
+    "ride_time": 0.1681909881,
+    "ride_speed": 27.1041573672,
+    "ride_id": "20210206189",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.1836179602,
+    "ride_time": 0.1827452526,
+    "ride_speed": 28.3652674189,
+    "ride_id": "20210206190",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.3983797879,
+    "ride_time": 0.4060484803,
+    "ride_speed": 20.6831947287,
+    "ride_id": "20210206191",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.5346590191,
+    "ride_time": 0.2980589724,
+    "ride_speed": 31.9891695961,
+    "ride_id": "20210206192",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.1276892461,
+    "ride_time": 0.3525944544,
+    "ride_speed": 25.8872172648,
+    "ride_id": "20210206193",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.9685409769,
+    "ride_time": 0.2594975031,
+    "ride_speed": 30.7075824659,
+    "ride_id": "20210206194",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.7915911657,
+    "ride_time": 0.1283347424,
+    "ride_speed": 29.5445418272,
+    "ride_id": "20210206195",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.8607250472,
+    "ride_time": 0.1827162891,
+    "ride_speed": 26.6025819058,
+    "ride_id": "20210206196",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.8118464979,
+    "ride_time": 0.0604291582,
+    "ride_speed": 29.9829842477,
+    "ride_id": "20210206197",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.0730170028,
+    "ride_time": 0.1357204275,
+    "ride_speed": 37.3784337028,
+    "ride_id": "20210206198",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.6767152108,
+    "ride_time": 0.2662463079,
+    "ride_speed": 32.58905365,
+    "ride_id": "20210206199",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.5817205457,
+    "ride_time": 0.3022890329,
+    "ride_speed": 28.3891230302,
+    "ride_id": "20210206200",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.542892705,
+    "ride_time": 0.2984137492,
+    "ride_speed": 21.9255738837,
+    "ride_id": "20210206201",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.5262340073,
+    "ride_time": 0.0904812096,
+    "ride_speed": 27.9199849224,
+    "ride_id": "20210206202",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.9564238161,
+    "ride_time": 0.2907291604,
+    "ride_speed": 23.9275062934,
+    "ride_id": "20210206203",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.1797632349,
+    "ride_time": 0.3065133406,
+    "ride_speed": 29.9489843296,
+    "ride_id": "20210206204",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.1358345274,
+    "ride_time": 0.0838084281,
+    "ride_speed": 37.4166966106,
+    "ride_id": "20210206205",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.5527573981,
+    "ride_time": 0.1662301384,
+    "ride_speed": 27.3882789287,
+    "ride_id": "20210206206",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.7487821962,
+    "ride_time": 0.1733903243,
+    "ride_speed": 38.9224844165,
+    "ride_id": "20210206207",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.0253772203,
+    "ride_time": 0.112350994,
+    "ride_speed": 35.8285857144,
+    "ride_id": "20210206208",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.7159794437,
+    "ride_time": 0.1240459449,
+    "ride_speed": 38.018005742,
+    "ride_id": "20210206209",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.3194539809,
+    "ride_time": 0.1351492762,
+    "ride_speed": 31.9606149778,
+    "ride_id": "20210206210",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.1852136497,
+    "ride_time": 0.0052804196,
+    "ride_speed": 35.0755550277,
+    "ride_id": "20210206211",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.0878699594,
+    "ride_time": 0.2967431071,
+    "ride_speed": 30.6253784613,
+    "ride_id": "20210206212",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.0973131895,
+    "ride_time": 0.0041212004,
+    "ride_speed": 23.6128262792,
+    "ride_id": "20210206213",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.4830160348,
+    "ride_time": 0.1702009171,
+    "ride_speed": 43.9657797596,
+    "ride_id": "20210206214",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.8454160999,
+    "ride_time": 0.0860832094,
+    "ride_speed": 33.0542520402,
+    "ride_id": "20210206215",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.9273449017,
+    "ride_time": 0.117829997,
+    "ride_speed": 24.8438001898,
+    "ride_id": "20210206216",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.4493446223,
+    "ride_time": 0.1209463548,
+    "ride_speed": 28.519624493,
+    "ride_id": "20210206217",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.4290586312,
+    "ride_time": 0.3593984888,
+    "ride_speed": 23.4532389382,
+    "ride_id": "20210206218",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.1452441309,
+    "ride_time": 0.0034975831,
+    "ride_speed": 41.526998701,
+    "ride_id": "20210206219",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.9572554444,
+    "ride_time": 0.1808964076,
+    "ride_speed": 32.9318615218,
+    "ride_id": "20210206220",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.6386894062,
+    "ride_time": 0.1748932523,
+    "ride_speed": 26.5229752722,
+    "ride_id": "20210206221",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.4374376116,
+    "ride_time": 0.0226856704,
+    "ride_speed": 19.2825516273,
+    "ride_id": "20210206222",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.4145303297,
+    "ride_time": 0.158845105,
+    "ride_speed": 27.7914155983,
+    "ride_id": "20210206223",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.459456576,
+    "ride_time": 0.180533621,
+    "ride_speed": 30.2406640197,
+    "ride_id": "20210206224",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.6254072688,
+    "ride_time": 0.1835293464,
+    "ride_speed": 25.2025485876,
+    "ride_id": "20210206225",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.3756422767,
+    "ride_time": 0.1542013764,
+    "ride_speed": 28.376155773,
+    "ride_id": "20210206226",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.5363659568,
+    "ride_time": 0.0168141197,
+    "ride_speed": 31.8997345876,
+    "ride_id": "20210206227",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.1319741578,
+    "ride_time": 0.2129075719,
+    "ride_speed": 28.8011088709,
+    "ride_id": "20210206228",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.009482256,
+    "ride_time": 0.171546402,
+    "ride_speed": 23.372581466,
+    "ride_id": "20210206229",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.8515972877,
+    "ride_time": 0.1134613941,
+    "ride_speed": 25.132753831,
+    "ride_id": "20210206230",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.058761771,
+    "ride_time": 0.2161919972,
+    "ride_speed": 32.650430457,
+    "ride_id": "20210206231",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.8924107234,
+    "ride_time": 0.2052070725,
+    "ride_speed": 23.8413357961,
+    "ride_id": "20210206232",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.4510910568,
+    "ride_time": 0.2681163272,
+    "ride_speed": 27.7905159127,
+    "ride_id": "20210206233",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.4926702322,
+    "ride_time": 0.1814810728,
+    "ride_speed": 30.2658020877,
+    "ride_id": "20210206234",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.6954494913,
+    "ride_time": 0.1221892573,
+    "ride_speed": 22.0596274157,
+    "ride_id": "20210206235",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.1736165038,
+    "ride_time": 0.2630921927,
+    "ride_speed": 27.2665502893,
+    "ride_id": "20210206236",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.777770862,
+    "ride_time": 0.0340435427,
+    "ride_speed": 22.8463550257,
+    "ride_id": "20210206237",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.7162415554,
+    "ride_time": 0.151174281,
+    "ride_speed": 31.1973804325,
+    "ride_id": "20210206238",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.2021873064,
+    "ride_time": 0.2553293409,
+    "ride_speed": 20.374420298,
+    "ride_id": "20210206239",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.2222165358,
+    "ride_time": 0.2537010515,
+    "ride_speed": 32.4090755135,
+    "ride_id": "20210206240",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.9950736494,
+    "ride_time": 0.3935680888,
+    "ride_speed": 22.8551905133,
+    "ride_id": "20210206241",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.199193057,
+    "ride_time": 0.075198143,
+    "ride_speed": 29.2453107012,
+    "ride_id": "20210206242",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.417604833,
+    "ride_time": 0.1126086301,
+    "ride_speed": 39.2297182782,
+    "ride_id": "20210206243",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.9606793453,
+    "ride_time": 0.2798329762,
+    "ride_speed": 28.4479672624,
+    "ride_id": "20210206244",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.4826935803,
+    "ride_time": 0.2349831911,
+    "ride_speed": 27.5879034158,
+    "ride_id": "20210206245",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.438834095,
+    "ride_time": 0.0519678604,
+    "ride_speed": 27.6869989444,
+    "ride_id": "20210206246",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.4050795771,
+    "ride_time": 0.2445385941,
+    "ride_speed": 30.2818440704,
+    "ride_id": "20210206247",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.7486550451,
+    "ride_time": 0.2639954855,
+    "ride_speed": 29.3514680022,
+    "ride_id": "20210206248",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.4607581256,
+    "ride_time": 0.2819251132,
+    "ride_speed": 26.4636166668,
+    "ride_id": "20210206249",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.4352117065,
+    "ride_time": 0.3207677173,
+    "ride_speed": 26.2969471422,
+    "ride_id": "20210206250",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.0951773198,
+    "ride_time": 0.2319945991,
+    "ride_speed": 34.8938180094,
+    "ride_id": "20210206251",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.5432806805,
+    "ride_time": 0.4316905966,
+    "ride_speed": 19.7902867172,
+    "ride_id": "20210206252",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.1174575,
+    "ride_time": 0.3038991519,
+    "ride_speed": 26.7110238719,
+    "ride_id": "20210206253",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.6726661449,
+    "ride_time": 0.2271933319,
+    "ride_speed": 29.3699911354,
+    "ride_id": "20210206254",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.2167159294,
+    "ride_time": 0.1476229763,
+    "ride_speed": 35.3381029286,
+    "ride_id": "20210206255",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.314347712,
+    "ride_time": 0.1592658232,
+    "ride_speed": 39.6465957692,
+    "ride_id": "20210206256",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.4061138414,
+    "ride_time": 0.1818725902,
+    "ride_speed": 35.223085763,
+    "ride_id": "20210206257",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.9831081249,
+    "ride_time": 0.2033266832,
+    "ride_speed": 34.3442779638,
+    "ride_id": "20210206258",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.8330687155,
+    "ride_time": 0.1183945069,
+    "ride_speed": 32.3753932095,
+    "ride_id": "20210206259",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.3762346764,
+    "ride_time": 0.1204222144,
+    "ride_speed": 28.0366433533,
+    "ride_id": "20210206260",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.9451185007,
+    "ride_time": 0.2453985309,
+    "ride_speed": 24.2263817876,
+    "ride_id": "20210206261",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.3381893454,
+    "ride_time": 0.0440110845,
+    "ride_speed": 30.4057344096,
+    "ride_id": "20210206262",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.6725242771,
+    "ride_time": 0.1770176802,
+    "ride_speed": 32.0449588382,
+    "ride_id": "20210206263",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.6435750513,
+    "ride_time": 0.1490376048,
+    "ride_speed": 31.1570697768,
+    "ride_id": "20210206264",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.5877457965,
+    "ride_time": 0.1129512508,
+    "ride_speed": 31.7636659204,
+    "ride_id": "20210206265",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.8733150144,
+    "ride_time": 0.0579287942,
+    "ride_speed": 32.3382359527,
+    "ride_id": "20210206266",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.2004382263,
+    "ride_time": 0.292980449,
+    "ride_speed": 27.9897114465,
+    "ride_id": "20210206267",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.4201600215,
+    "ride_time": 0.2147707189,
+    "ride_speed": 29.8930881026,
+    "ride_id": "20210206268",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.2474369757,
+    "ride_time": 0.116922836,
+    "ride_speed": 36.3268384658,
+    "ride_id": "20210206269",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.3628731244,
+    "ride_time": 0.0934235319,
+    "ride_speed": 25.2920551835,
+    "ride_id": "20210206270",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.8151003381,
+    "ride_time": 0.276858389,
+    "ride_speed": 31.8397443943,
+    "ride_id": "20210206271",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.9546701329,
+    "ride_time": 0.4120684918,
+    "ride_speed": 24.1578046611,
+    "ride_id": "20210206272",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.1789265169,
+    "ride_time": 0.1511453124,
+    "ride_speed": 27.6484030614,
+    "ride_id": "20210206273",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.680896922,
+    "ride_time": 0.0222984003,
+    "ride_speed": 30.5356848052,
+    "ride_id": "20210206274",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.8600712668,
+    "ride_time": 0.1877199505,
+    "ride_speed": 36.5441778985,
+    "ride_id": "20210206275",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.0866713789,
+    "ride_time": 0.3052268513,
+    "ride_speed": 26.4939711034,
+    "ride_id": "20210206276",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.0756919085,
+    "ride_time": 0.00243738,
+    "ride_speed": 31.0546193766,
+    "ride_id": "20210206277",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.1321751928,
+    "ride_time": 0.0843601608,
+    "ride_speed": 25.274669599,
+    "ride_id": "20210206278",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.5542489,
+    "ride_time": 0.0423991491,
+    "ride_speed": 36.6575493611,
+    "ride_id": "20210206279",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.3120207717,
+    "ride_time": 0.279143668,
+    "ride_speed": 26.194471196,
+    "ride_id": "20210206280",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.0975697238,
+    "ride_time": 0.297396211,
+    "ride_speed": 30.5907385039,
+    "ride_id": "20210206281",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.4467434742,
+    "ride_time": 0.2254631645,
+    "ride_speed": 33.0286479041,
+    "ride_id": "20210206282",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.9831228219,
+    "ride_time": 0.329691028,
+    "ride_speed": 27.2470951856,
+    "ride_id": "20210206283",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.3944637838,
+    "ride_time": 0.2197260422,
+    "ride_speed": 29.1019840858,
+    "ride_id": "20210206284",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.0834168229,
+    "ride_time": 0.1097385689,
+    "ride_speed": 28.0978406644,
+    "ride_id": "20210206285",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.1470813194,
+    "ride_time": 0.2372603739,
+    "ride_speed": 25.9085881801,
+    "ride_id": "20210206286",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.2716507255,
+    "ride_time": 0.0736000391,
+    "ride_speed": 30.8648032555,
+    "ride_id": "20210206287",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.4032051557,
+    "ride_time": 0.244654681,
+    "ride_speed": 34.3472077502,
+    "ride_id": "20210206288",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.9199468278,
+    "ride_time": 0.205133281,
+    "ride_speed": 28.8590266743,
+    "ride_id": "20210206289",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.3589746712,
+    "ride_time": 0.2731119137,
+    "ride_speed": 34.2679107072,
+    "ride_id": "20210206290",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.10919645,
+    "ride_time": 0.2874619197,
+    "ride_speed": 31.6883587938,
+    "ride_id": "20210206291",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.4097398196,
+    "ride_time": 0.0958988673,
+    "ride_speed": 35.5555797172,
+    "ride_id": "20210206292",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.3656776178,
+    "ride_time": 0.1398862154,
+    "ride_speed": 31.2087764034,
+    "ride_id": "20210206293",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.8430808258,
+    "ride_time": 0.2294545672,
+    "ride_speed": 38.5395720581,
+    "ride_id": "20210206294",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.424343015,
+    "ride_time": 0.0816184452,
+    "ride_speed": 29.7033717125,
+    "ride_id": "20210206295",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.2082553321,
+    "ride_time": 0.2154920513,
+    "ride_speed": 42.7312992653,
+    "ride_id": "20210206296",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.7266373425,
+    "ride_time": 0.139115525,
+    "ride_speed": 33.97634694,
+    "ride_id": "20210206297",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.7763503572,
+    "ride_time": 0.2894452853,
+    "ride_speed": 30.321275913,
+    "ride_id": "20210206298",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.936351938,
+    "ride_time": 0.2125655767,
+    "ride_speed": 32.6315862013,
+    "ride_id": "20210206299",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.3000281216,
+    "ride_time": 0.2973265826,
+    "ride_speed": 27.9155265901,
+    "ride_id": "20210206300",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.8476800197,
+    "ride_time": 0.1685785943,
+    "ride_speed": 28.7562014537,
+    "ride_id": "20210206301",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.4042427319,
+    "ride_time": 0.1023562648,
+    "ride_speed": 23.4889651022,
+    "ride_id": "20210206302",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.0636988812,
+    "ride_time": 0.0322393283,
+    "ride_speed": 32.9938288655,
+    "ride_id": "20210206303",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.4031995806,
+    "ride_time": 0.2241363488,
+    "ride_speed": 33.0298928321,
+    "ride_id": "20210206304",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.2176722056,
+    "ride_time": 0.0354637238,
+    "ride_speed": 34.3357119869,
+    "ride_id": "20210206305",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.5467630817,
+    "ride_time": 0.086237759,
+    "ride_speed": 29.5318792098,
+    "ride_id": "20210206306",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.5976692143,
+    "ride_time": 0.1730096809,
+    "ride_speed": 26.5746355357,
+    "ride_id": "20210206307",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.4215433782,
+    "ride_time": 0.3854729098,
+    "ride_speed": 21.847302791,
+    "ride_id": "20210206308",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.553721483,
+    "ride_time": 0.0654535523,
+    "ride_speed": 23.7377717184,
+    "ride_id": "20210206309",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.1439522103,
+    "ride_time": 0.354294151,
+    "ride_speed": 20.1639010707,
+    "ride_id": "20210206310",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.611941031,
+    "ride_time": 0.1779014576,
+    "ride_speed": 31.5452223213,
+    "ride_id": "20210206311",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.5410328027,
+    "ride_time": 0.2605786782,
+    "ride_speed": 36.6147870094,
+    "ride_id": "20210206312",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.5145608521,
+    "ride_time": 0.1488753981,
+    "ride_speed": 37.0414516031,
+    "ride_id": "20210206313",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.7731307371,
+    "ride_time": 0.0178787904,
+    "ride_speed": 43.2428996538,
+    "ride_id": "20210206314",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.5620833593,
+    "ride_time": 0.2446679772,
+    "ride_speed": 34.9947036737,
+    "ride_id": "20210206315",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.051635945,
+    "ride_time": 0.2684867537,
+    "ride_speed": 26.2643718847,
+    "ride_id": "20210206316",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.7165667106,
+    "ride_time": 0.2035396044,
+    "ride_speed": 28.0857709645,
+    "ride_id": "20210206317",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.492711347,
+    "ride_time": 0.1548268246,
+    "ride_speed": 29.0176547788,
+    "ride_id": "20210206318",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.0567958249,
+    "ride_time": 0.0782194038,
+    "ride_speed": 26.2952122594,
+    "ride_id": "20210206319",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.3712580323,
+    "ride_time": 0.1276030814,
+    "ride_speed": 26.4198794772,
+    "ride_id": "20210206320",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.2904510054,
+    "ride_time": 0.1016753182,
+    "ride_speed": 32.3623379024,
+    "ride_id": "20210206321",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.2551841705,
+    "ride_time": 0.2308600385,
+    "ride_speed": 31.4267649634,
+    "ride_id": "20210206322",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.8103802883,
+    "ride_time": 0.1845093215,
+    "ride_speed": 20.6514243155,
+    "ride_id": "20210206323",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.4888889825,
+    "ride_time": 0.3475550863,
+    "ride_speed": 24.4245856744,
+    "ride_id": "20210206324",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.7084318582,
+    "ride_time": 0.0178970368,
+    "ride_speed": 39.583751553,
+    "ride_id": "20210206325",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.2301339825,
+    "ride_time": 0.0871786425,
+    "ride_speed": 37.0518958633,
+    "ride_id": "20210206326",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.3456588761,
+    "ride_time": 0.1437240893,
+    "ride_speed": 37.1938963242,
+    "ride_id": "20210206327",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.4116308491,
+    "ride_time": 0.2776517092,
+    "ride_speed": 30.2956206345,
+    "ride_id": "20210206328",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.7020299148,
+    "ride_time": 0.2937521676,
+    "ride_speed": 29.6237130253,
+    "ride_id": "20210206329",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.2584443223,
+    "ride_time": 0.0977069122,
+    "ride_speed": 23.1144785032,
+    "ride_id": "20210206330",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.4973220131,
+    "ride_time": 0.2577231033,
+    "ride_speed": 25.2104756196,
+    "ride_id": "20210206331",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.9040518577,
+    "ride_time": 0.2210916406,
+    "ride_speed": 35.7501162681,
+    "ride_id": "20210206332",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.1457599365,
+    "ride_time": 0.1334792745,
+    "ride_speed": 31.0592034106,
+    "ride_id": "20210206333",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.4377729736,
+    "ride_time": 0.0147596325,
+    "ride_speed": 29.6601539849,
+    "ride_id": "20210206334",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.3875801292,
+    "ride_time": 0.2542334092,
+    "ride_speed": 29.0582585214,
+    "ride_id": "20210206335",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.2946125986,
+    "ride_time": 0.008350616,
+    "ride_speed": 35.2803433506,
+    "ride_id": "20210206336",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.3316503719,
+    "ride_time": 0.1829944398,
+    "ride_speed": 18.2062929106,
+    "ride_id": "20210206337",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.1524593827,
+    "ride_time": 0.2084280498,
+    "ride_speed": 24.7205660989,
+    "ride_id": "20210206338",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.0279820531,
+    "ride_time": 0.0598711214,
+    "ride_speed": 33.8724581191,
+    "ride_id": "20210206339",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.8771959499,
+    "ride_time": 0.1081240139,
+    "ride_speed": 35.858786678,
+    "ride_id": "20210206340",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.8607867062,
+    "ride_time": 0.0309589649,
+    "ride_speed": 27.8041177736,
+    "ride_id": "20210206341",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.2224679174,
+    "ride_time": 0.0474498691,
+    "ride_speed": 25.7633569895,
+    "ride_id": "20210206342",
+    "label": 0
+  },
+  {
+    "ride_dist": 2.9343889707,
+    "ride_time": 0.1022690775,
+    "ride_speed": 28.6928272071,
+    "ride_id": "20210206343",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.7070845404,
+    "ride_time": 0.2554162475,
+    "ride_speed": 34.0897833462,
+    "ride_id": "20210206344",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.9910766513,
+    "ride_time": 0.073781349,
+    "ride_speed": 26.9861784538,
+    "ride_id": "20210206345",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.5668840151,
+    "ride_time": 0.1488106893,
+    "ride_speed": 37.4091675816,
+    "ride_id": "20210206346",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.935638238,
+    "ride_time": 0.2283685426,
+    "ride_speed": 39.1281484612,
+    "ride_id": "20210206347",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.6310483097,
+    "ride_time": 0.0229379396,
+    "ride_speed": 27.5111156797,
+    "ride_id": "20210206348",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.5400165466,
+    "ride_time": 0.2291079317,
+    "ride_speed": 32.9103252333,
+    "ride_id": "20210206349",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.2245936213,
+    "ride_time": 0.3124746282,
+    "ride_speed": 26.3208365676,
+    "ride_id": "20210206350",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.9435772138,
+    "ride_time": 0.4039185021,
+    "ride_speed": 22.1420340155,
+    "ride_id": "20210206351",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.5228228054,
+    "ride_time": 0.1445833369,
+    "ride_speed": 31.2817707853,
+    "ride_id": "20210206352",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.9580339898,
+    "ride_time": 0.1962053204,
+    "ride_speed": 25.2696205185,
+    "ride_id": "20210206353",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.2154374474,
+    "ride_time": 0.0384951045,
+    "ride_speed": 31.5738186139,
+    "ride_id": "20210206354",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.8411214352,
+    "ride_time": 0.1072017095,
+    "ride_speed": 35.8307852809,
+    "ride_id": "20210206355",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.6137834883,
+    "ride_time": 0.2299320239,
+    "ride_speed": 28.764081564,
+    "ride_id": "20210206356",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.80768475,
+    "ride_time": 0.0253099035,
+    "ride_speed": 31.9118068036,
+    "ride_id": "20210206357",
+    "label": 0
+  },
+  {
+    "ride_dist": 7.9096844343,
+    "ride_time": 0.2409607742,
+    "ride_speed": 32.8256101454,
+    "ride_id": "20210206358",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.8785758396,
+    "ride_time": 0.0273392585,
+    "ride_speed": 32.1360523054,
+    "ride_id": "20210206359",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.2179732828,
+    "ride_time": 0.2125311347,
+    "ride_speed": 29.2567641587,
+    "ride_id": "20210206360",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.6273576229,
+    "ride_time": 0.1816834695,
+    "ride_speed": 36.4774937587,
+    "ride_id": "20210206361",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.0966377134,
+    "ride_time": 0.1859304282,
+    "ride_speed": 27.4115310967,
+    "ride_id": "20210206362",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.0111849022,
+    "ride_time": 0.0998627061,
+    "ride_speed": 30.1532475937,
+    "ride_id": "20210206363",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.6718505502,
+    "ride_time": 0.1029736983,
+    "ride_speed": 35.6581399972,
+    "ride_id": "20210206364",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.1879968317,
+    "ride_time": 0.2982626283,
+    "ride_speed": 30.8050555428,
+    "ride_id": "20210206365",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.8962271365,
+    "ride_time": 0.1889583212,
+    "ride_speed": 25.9116777979,
+    "ride_id": "20210206366",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.6593871602,
+    "ride_time": 0.0588549947,
+    "ride_speed": 28.1945001892,
+    "ride_id": "20210206367",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.665869418,
+    "ride_time": 0.3086518966,
+    "ride_speed": 31.316410247,
+    "ride_id": "20210206368",
+    "label": 0
+  },
+  {
+    "ride_dist": 9.832918237,
+    "ride_time": 0.2923676842,
+    "ride_speed": 33.6320283255,
+    "ride_id": "20210206369",
+    "label": 0
+  },
+  {
+    "ride_dist": 21.3390555055,
+    "ride_time": 0.6385394654,
+    "ride_speed": 33.418538185,
+    "ride_id": "20210206370",
+    "label": -1
+  },
+  {
+    "ride_dist": 16.5281365487,
+    "ride_time": 0.499012726,
+    "ride_speed": 33.1216734306,
+    "ride_id": "20210206371",
+    "label": -1
+  },
+  {
+    "ride_dist": 29.7485479097,
+    "ride_time": 1.46186523,
+    "ride_speed": 20.349719864,
+    "ride_id": "20210206372",
+    "label": -1
+  },
+  {
+    "ride_dist": 13.13527112,
+    "ride_time": 0.4216847534,
+    "ride_speed": 31.1495044919,
+    "ride_id": "20210206373",
+    "label": -1
+  },
+  {
+    "ride_dist": 15.8381308852,
+    "ride_time": 0.4668199019,
+    "ride_speed": 33.9277113499,
+    "ride_id": "20210206374",
+    "label": -1
+  },
+  {
+    "ride_dist": 8.7160964863,
+    "ride_time": 0.2878221708,
+    "ride_speed": 30.282922476,
+    "ride_id": "20210206375",
+    "label": 0
+  },
+  {
+    "ride_dist": 22.4134565908,
+    "ride_time": 0.6500863848,
+    "ride_speed": 34.4776588378,
+    "ride_id": "20210206376",
+    "label": -1
+  },
+  {
+    "ride_dist": 14.1294368718,
+    "ride_time": 0.5902402785,
+    "ride_speed": 23.9384491157,
+    "ride_id": "20210206377",
+    "label": -1
+  },
+  {
+    "ride_dist": 13.1672998149,
+    "ride_time": 0.4543407112,
+    "ride_speed": 28.9811137097,
+    "ride_id": "20210206378",
+    "label": -1
+  },
+  {
+    "ride_dist": 25.6123393681,
+    "ride_time": 0.9105009312,
+    "ride_speed": 28.1299430778,
+    "ride_id": "20210206379",
+    "label": -1
+  },
+  {
+    "ride_dist": 0.8966835906,
+    "ride_time": 0.0261940858,
+    "ride_speed": 34.232291889,
+    "ride_id": "20210206380",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.5329781156,
+    "ride_time": 0.0394236356,
+    "ride_speed": 38.8847474901,
+    "ride_id": "20210206381",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.7916091766,
+    "ride_time": 0.0641636516,
+    "ride_speed": 59.0927898203,
+    "ride_id": "20210206382",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.0211871494,
+    "ride_time": 0.0170954172,
+    "ride_speed": 59.7345555765,
+    "ride_id": "20210206383",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.8686050182,
+    "ride_time": 0.0200180078,
+    "ride_speed": 43.3911819806,
+    "ride_id": "20210206384",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.3783261199,
+    "ride_time": 0.1495903022,
+    "ride_speed": 56.0084844695,
+    "ride_id": "20210206385",
+    "label": 0
+  },
+  {
+    "ride_dist": 6.3508295032,
+    "ride_time": 0.1185333055,
+    "ride_speed": 53.5784392316,
+    "ride_id": "20210206386",
+    "label": 0
+  },
+  {
+    "ride_dist": 3.3472863157,
+    "ride_time": 0.0767515921,
+    "ride_speed": 43.6119463339,
+    "ride_id": "20210206387",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.6726243107,
+    "ride_time": 0.0944211866,
+    "ride_speed": 60.0778756824,
+    "ride_id": "20210206388",
+    "label": 0
+  },
+  {
+    "ride_dist": 5.8005589262,
+    "ride_time": 0.1099760735,
+    "ride_speed": 52.7438263647,
+    "ride_id": "20210206389",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.1435633809,
+    "ride_time": 0.0750755381,
+    "ride_speed": 15.2321702881,
+    "ride_id": "20210206390",
+    "label": 0
+  },
+  {
+    "ride_dist": 1.7572708577,
+    "ride_time": 0.10928608,
+    "ride_speed": 16.0795488064,
+    "ride_id": "20210206391",
+    "label": 0
+  },
+  {
+    "ride_dist": 0.727737324,
+    "ride_time": 0.0561724326,
+    "ride_speed": 12.9554176338,
+    "ride_id": "20210206392",
+    "label": 0
+  },
+  {
+    "ride_dist": 8.6109309799,
+    "ride_time": 0.5667438512,
+    "ride_speed": 15.1936910507,
+    "ride_id": "20210206393",
+    "label": -1
+  },
+  {
+    "ride_dist": 2.608719064,
+    "ride_time": 0.1234621041,
+    "ride_speed": 21.1297149254,
+    "ride_id": "20210206394",
+    "label": 0
+  },
+  {
+    "ride_dist": 4.0290171006,
+    "ride_time": 0.3233801787,
+    "ride_speed": 12.459072528,
+    "ride_id": "20210206395",
+    "label": -1
+  },
+  {
+    "ride_dist": 4.5813454986,
+    "ride_time": 0.4408200179,
+    "ride_speed": 10.392780074,
+    "ride_id": "20210206396",
+    "label": -1
+  },
+  {
+    "ride_dist": 3.6365054842,
+    "ride_time": 0.3182636151,
+    "ride_speed": 11.4260798657,
+    "ride_id": "20210206397",
+    "label": -1
+  },
+  {
+    "ride_dist": 9.5924387113,
+    "ride_time": 1.3080895411,
+    "ride_speed": 7.3331667365,
+    "ride_id": "20210206398",
+    "label": -1
+  },
+  {
+    "ride_dist": 7.2228635975,
+    "ride_time": 0.8031665864,
+    "ride_speed": 8.9929831745,
+    "ride_id": "20210206399",
+    "label": -1
+  }
+]
