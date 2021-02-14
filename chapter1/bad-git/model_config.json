@@ -1,0 +1,4 @@
+{
+  "regParam": 0.001,
+  "maxIter": 10
+}
