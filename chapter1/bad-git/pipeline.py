@@ -1,8 +1,13 @@
-# EXAMPLE BELOW TAKEN FROM THE SPARK API DOCS, BEFORE BEING UPDATE FOR THE BOOK
+# EXAMPLE BELOW ADAPTED FROM THE SPARK DOCS
 # https://spark.apache.org/docs/latest/ml-pipeline.html#pipeline
 from pyspark.ml import Pipeline
 from pyspark.ml.classification import LogisticRegression
 from pyspark.ml.feature import HashingTF, Tokenizer
+
+import json
+
+with open("model_config.json") as f:
+    model_config = json.load(f)
 
 # Prepare training documents from a list of (id, text, label) tuples.
 training = spark.createDataFrame([
@@ -15,7 +20,7 @@ training = spark.createDataFrame([
 # Configure an ML pipeline, which consists of three stages: tokenizer, hashingTF, and lr.
 tokenizer = Tokenizer(inputCol="text", outputCol="words")
 hashingTF = HashingTF(inputCol=tokenizer.getOutputCol(), outputCol="features")
-lr = LogisticRegression(maxIter=10, regParam=0.001)
+lr = LogisticRegression(maxIter=model_config['maxIter'], regParam=model_config['regParam'])
 pipeline = Pipeline(stages=[tokenizer, hashingTF, lr])
 
 # Fit the pipeline to training documents.
