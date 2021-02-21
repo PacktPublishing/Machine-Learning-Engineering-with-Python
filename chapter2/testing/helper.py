@@ -43,10 +43,13 @@ def simulate_ride_data():
     return df_sim
 
 
-# If data present, read it in
-file_path = f'''../../chapter1/batch-anomaly/data/taxi-rides.csv'''
-if os.path.exists(file_path):
-    df = pd.read_csv(file_path)
-else:
-    df = simulate_ride_data()
-    df.to_csv(file_path, index=False)
+def get_taxi_data():
+    # If data present, read it in
+    file_path = f'''../../chapter1/batch-anomaly/data/taxi-rides.csv'''
+    if os.path.exists(file_path):
+        df = pd.read_csv(file_path)
+    else:
+        df = simulate_ride_data()
+        df.to_csv(file_path, index=False)
+    assert isinstance(df, object)
+    return df
