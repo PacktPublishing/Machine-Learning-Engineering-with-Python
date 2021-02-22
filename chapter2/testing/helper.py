@@ -45,7 +45,8 @@ def simulate_ride_data():
 
 def get_taxi_data():
     # If data present, read it in
-    file_path = f'''../../chapter1/batch-anomaly/data/taxi-rides.csv'''
+    #file_path = f'''../../chapter1/batch-anomaly/data/taxi-rides.csv''' #relative
+    file_path = f'''chapter1/batch-anomaly/data/taxi-rides.csv''' #from top dir
     if os.path.exists(file_path):
         df = pd.read_csv(file_path)
     else:
