@@ -1,8 +1,12 @@
 # EXAMPLE BELOW TAKEN FROM THE SPARK API DOCS, BEFORE BEING UPDATE FOR THE BOOK
-# https://spark.apache.org/docs/latest/ml-pipeline.html#pipeline
+# https://spark.apache.org/docs/latest/ml-pipeline.html
+from pyspark.sql import SparkSession
+
 from pyspark.ml import Pipeline
 from pyspark.ml.classification import LogisticRegression
 from pyspark.ml.feature import HashingTF, Tokenizer
+
+spark = SparkSession.builder.appName("PipelineBasic").getOrCreate()
 
 # Prepare training documents from a list of (id, text, label) tuples.
 training = spark.createDataFrame([
@@ -35,4 +39,3 @@ selected = prediction.select("id", "text", "probability", "prediction")
 for row in selected.collect():
     rid, text, prob, prediction = row
     print("(%d, %s) --> prob=%s, prediction=%f" % (rid, text, str(prob), prediction))
-
