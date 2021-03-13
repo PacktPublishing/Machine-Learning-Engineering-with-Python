@@ -45,3 +45,5 @@ Ended up running this [tutorial](https://www.liquidweb.com/kb/how-to-install-apa
 (base) andrew@andrew-ThinkStation-P300:/home$ echo $PATH
 /home/andrew/anaconda3/bin:/home/andrew/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/bin:/sbin:/usr/local/spark/bin:/usr/local/spark/sbin
 ```
+
+I also had to perform this [hack](https://www.programmersought.com/article/82621638955/)
