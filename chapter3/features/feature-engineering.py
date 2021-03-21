@@ -34,3 +34,4 @@ print('{:.2%}\n'.format(metrics.accuracy_score(y_test, y_pred_std_scale)))
 
 print('\nClassification Report [scaling]')
 print(metrics.classification_report(y_test, y_pred_std_scale))
+
