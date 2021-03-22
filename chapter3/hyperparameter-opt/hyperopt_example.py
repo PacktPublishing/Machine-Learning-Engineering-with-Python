@@ -9,6 +9,8 @@ from sklearn import datasets
 
 from functools import partial # to solve scoping problem when supplying more params' to objective function
 
+import pprint
+
 space = {
     'warm_start': hp.choice('warm_start', [True, False]),
     'fit_intercept': hp.choice('fit_intercept', [True, False]),
@@ -60,3 +62,5 @@ if __name__ == "__main__":
         max_evals=16,
         trials=trials
     )
+
+    pprint.pprint(best)
