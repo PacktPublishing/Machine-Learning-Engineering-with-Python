@@ -11,9 +11,9 @@ stages = []
 
 for categoricalCol in categoricalColumns:
     # fill some nulls
-    data = data.na.fill({categoricalCol:’Unknown’})
+    #data = data.na.fill({categoricalCol:’Unknown’})
     # category indexing with string indexer
-    stringIndexer = StringIndexer(inputCol=categoricalCol, outputCol=categoricalCol+”Index”).setHandleInvalid(“keep”) # keep is for unknown categories
+    # stringIndexer = StringIndexer(inputCol=categoricalCol, outputCol=categoricalCol+”Index”).setHandleInvalid(“keep”) # keep is for unknown categories
     # Use onehotencoder to convert cat variables into binary sparseVectors
     encoder = OneHotEncoderEstimator(inputCols=[stringIndexer.getOutputCol()], outputCols=[categoricalCol+”classVec”])
     # Add stages. These are not run here, will be run later
