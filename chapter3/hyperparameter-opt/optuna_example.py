@@ -18,9 +18,9 @@ def objective(trial, n_folds, X, y):
     """Objective function for tuning logistic regression hyperparameters"""
     params = {
         'warm_start': trial.suggest_categorical('warm_start', [True, False]),
-        'fit_intercept':trial.suggest_categorical.choice('fit_intercept', [True, False]),
-        'tol': optuna.distributions.UniformDistributionniform(0.00001, 0.0001),
-        'C': optuna.distributions.UniformDistributionniform(0.05, 2.5),
+        'fit_intercept': trial.suggest_categorical('fit_intercept', [True, False]),
+        'tol': trial.suggest_uniform('tol', 0.00001, 0.0001),
+        'C': trial.suggest_uniform('C', 0.05, 2.5),
         'solver': trial.suggest_categorical('solver', ['newton-cg', 'lbfgs', 'liblinear']),
         'max_iter': trial.suggest_categorical('max_iter', range(10, 500))
     }
@@ -41,7 +41,7 @@ def objective(trial, n_folds, X, y):
 if __name__ == "__main__":
     n_folds = 5
     X, y = datasets.make_classification(n_samples=100000, n_features=20,
-                                        n_informative=2, n_redundant=2)
+                                    n_informative=2, n_redundant=2)
 
     train_samples = 100  # Samples used for training the models
 
@@ -50,18 +50,8 @@ if __name__ == "__main__":
     y_train = y[:train_samples]
     y_test = y[train_samples:]
 
-    optuna_search = optuna.integration.OptunaSearchCV(
-        clf, param_distributions, n_trials=100, timeout=600, verbose=2
-    )
+    study = optuna.create_study(direction='minimize')
+    study.optimize(partial(objective, n_folds=n_folds, X=X_train, y=y_train), n_trials=16)
 
-    X, y = load_iris(return_X_y=True)
-    optuna_search.fit(X, y)
-
-    print("Best trial:")
-    trial = optuna_search.study_.best_trial
-
-    print("  Value: ", trial.value)
-    print("  Params: ")
-    for key, value in trial.params.items():
-        print("    {}: {}".format(key, value))
-
+    print(study.best_trial.params)
+    print(stu)

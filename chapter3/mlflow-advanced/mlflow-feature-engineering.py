@@ -14,6 +14,9 @@ from mlflow.tracking import MlflowClient
 from pprint import pprint
 
 if __name__=="__main__":
+    # assume you have already run 'start-mlflow-server.sh'
+    mlflow.set_tracking_uri("http://localhost:5000")
+
     X, y = load_wine(return_X_y=True)
 
     # Make a 70/30 train/test split
@@ -57,12 +60,13 @@ if __name__=="__main__":
     )
     model.predict(X_test)
 
-    # Fetch model based on stage name ...
-    stage = 'Staging'
-    model = mlflow.pyfunc.load_model(
-        model_uri=f"models:/{model_name}/{stage}"
+    # Transition the model stage to 'Production'
+    client = MlflowClient()
+    client.transition_model_version_stage(
+        name="sk-learn-std-scale-clf",
+        version=1,
+        stage="Staging"
     )
-
     # Transition the model stage to 'Production'
     client = MlflowClient()
     client.transition_model_version_stage(
@@ -71,6 +75,11 @@ if __name__=="__main__":
         stage="Production"
     )
 
+    # Fetch model based on stage name ...
+    stage = 'Production'
+    model = mlflow.pyfunc.load_model(
+        model_uri=f"models:/{model_name}/{stage}"
+    )
     # Search model versions of a given model name
     client = MlflowClient()
     for mv in client.search_model_versions("name='sk-learn-std-scale-clf'"):

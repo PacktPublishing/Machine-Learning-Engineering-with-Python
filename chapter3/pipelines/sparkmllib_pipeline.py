@@ -24,9 +24,6 @@ if __name__ == "__main__":
     # define list for storage stage references
     stages = []
 
-    # define list for storage stage references
-    stages = []
-
     # define the transformation stages for the categorical columns
     categoricalColumns = ["job", "marital", "education", "contact", "housing", "loan", "default", "day"]
     for categoricalCol in categoricalColumns:
