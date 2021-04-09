@@ -4,9 +4,9 @@ Machine Learning Engineering with Python
 
 * **Chapter 1** - Introduction to Machine Learning Engineering
 * **Chapter 2** - The Machine Learning Development Process
-* **Chapter 3** - From Model To Model Factory: Training Systems
+* **Chapter 3** - From Model To Model Factory
 * **Chapter 4** - User Defined Libraries
-* **Chapter 5** - Deployment: Architecture and Tools
+* **Chapter 5** - Deployment Architecture and Tools
 * **Chapter 6** - Scaling Up
 * **Chapter 7** - Example 1: User Defined Libraries for ML Workflows
 * **Chapter 8** - Example 2: ML Microservices
