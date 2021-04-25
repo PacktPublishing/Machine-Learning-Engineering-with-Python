@@ -1,6 +1,3 @@
-from sklearn.ensemble import IsolationForest
-from sklearn.datasets import make_blobs
-import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import make_pipeline
 
