@@ -1,4 +1,4 @@
-# Add the current package path to the environment math
+# Add the current package path to the environment path
 export PYTHONPATH="${PYTHONPATH}:$(pwd)/outliers"
 #for ARGUMENT in "$@"
 #do
