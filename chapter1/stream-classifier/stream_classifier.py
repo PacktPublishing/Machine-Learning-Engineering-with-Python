@@ -9,7 +9,7 @@ from sklearn.model_selection import RandomizedSearchCV
 from imblearn.over_sampling import SMOTE
 
 if __name__ == "__main__":
-    df = pd.read_csv('../data/bank/bank.csv', delimiter=';', decimal=',')
+    df = pd.read_csv('./data/bank/bank.csv', delimiter=';', decimal=',')
 
     # Assume there was some EDA and feature analysis to select below
     feature_cols = ['job', 'marital', 'education', 'contact', 'housing', 'loan', 'default', 'day']
