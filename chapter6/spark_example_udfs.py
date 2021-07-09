@@ -23,10 +23,32 @@ data.show()
 
 # UDF
 import datetime
-def create_date(day, month):
+def month_as_int(month):
     month_number = datetime.datetime.strptime(month, "%b").month
-    return datetime.datetime(2020, month_number, day).strftime("%Y-%m-%d")
+    return month_number
 
-spark.udf.register("CreateDate", create_date, StringType())
+spark.udf.register("monthAsInt", month_as_int, StringType())
 
 
+# Apply in spark sql
+data.createOrReplaceTempView('bank_data_view')
+
+spark.sql('''
+select *, monthAsInt(month) as month_as_int from bank_data_view
+''').show()
+
+
+# Apply on dataframe
+from pyspark.sql.functions import udf
+month_as_int_udf = udf(month_as_int, StringType())
+
+df = spark.table("bank_data_view")
+df.withColumn('month_as_int', month_as_int_udf("month")).show()
+
+# Create with decorator syntax
+@udf("string")
+def month_as_int_udf(month):
+    month_number = datetime.datetime.strptime(month, "%b").month
+    return month_number
+
+df.withColumn('month_as_int', month_as_int_udf("month")).show()
