@@ -60,7 +60,7 @@ if __name__=="__main__":
     )
     model.predict(X_test)
 
-    # Transition the model stage to 'Production'
+    # Transition the model stage to 'Staging'
     client = MlflowClient()
     client.transition_model_version_stage(
         name="sk-learn-std-scale-clf",
