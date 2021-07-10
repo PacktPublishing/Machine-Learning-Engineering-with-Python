@@ -396,10 +396,12 @@ dependencies:
     - oauthlib==3.1.0
     - opencv-python==4.5.1.48
     - opt-einsum==3.3.0
+    - outliers==0.1
     - pathy==0.4.0
     - preshed==3.0.5
     - prometheus-flask-exporter==0.18.1
     - protobuf==3.15.6
+    - pyarrow==4.0.1
     - pyasn1==0.4.8
     - pyasn1-modules==0.2.8
     - pydantic==1.7.3
