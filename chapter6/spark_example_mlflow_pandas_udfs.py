@@ -1,7 +1,7 @@
 #Note - reuses some code from chapter 3
 from pyspark.sql import SparkSession
 from pyspark import SparkContext
-from pyspark.sql.types import StringType
+from pyspark.sql.types import StringType, IntegerType
 from pyspark.sql import functions as f
 from pprint import pprint
 
@@ -40,6 +40,7 @@ model = mlflow.pyfunc.load_model(
     model_uri=source_path
 )
 print(source_path)
+
 # Load model as a Spark UDF.
 loaded_model = mlflow.pyfunc.spark_udf(spark, model_uri=source_path)
 
@@ -51,9 +52,11 @@ print(X)
 
 from pyspark.sql.functions import struct
 df = spark.createDataFrame(X.tolist())
-df.withColumn('my_predictions', loaded_model(struct(['_{}'.format(x) for x in range(1, 14)]))).show()
+# df.withColumn('my_predictions', loaded_model(struct(['_{}'.format(x) for x in range(1, 14)]))).show()
 
-
+@udf(returnType=IntegerType())
+def predict_udf(*cols):
+    return int(model.pred)
 
 
 

@@ -42,9 +42,9 @@ dependencies:
   - bottleneck=1.3.2=py38heb32a55_1
   - brotlipy=0.7.0=py38h7b6447c_1000
   - bzip2=1.0.8=h7b6447c_0
-  - ca-certificates=2021.1.19=h06a4308_1
+  - ca-certificates=2021.7.5=h06a4308_1
   - cairo=1.14.12=h8948797_3
-  - certifi=2020.12.5=py38h06a4308_0
+  - certifi=2021.5.30=py38h06a4308_0
   - cffi=1.14.3=py38he30daa8_0
   - cftime=1.2.1=py38hab2c0dc_1
   - chardet=3.0.4=py38_1003
@@ -55,7 +55,7 @@ dependencies:
   - cmaes=0.8.2=pyh44b312d_0
   - cmd2=1.5.0=py38h578d9bd_0
   - colorama=0.4.4=py_0
-  - colorlog=4.8.0=py38h06a4308_1
+  - colorlog=5.0.1=py38h06a4308_1
   - conda-package-handling=1.7.2=py38h03888b9_0
   - conda-verify=3.4.2=py_1
   - contextlib2=0.6.0.post1=py_0
@@ -227,7 +227,7 @@ dependencies:
   - pathlib2=2.3.5=py38_0
   - pathtools=0.1.2=py_1
   - patsy=0.5.1=py38_0
-  - pbr=5.5.1=py_0
+  - pbr=5.6.0=pyhd3eb1b0_0
   - pcre=8.44=he6710b0_0
   - pep8=1.7.1=py38_0
   - pexpect=4.8.0=py38_0
@@ -246,7 +246,6 @@ dependencies:
   - ptyprocess=0.6.0=py38_0
   - py=1.9.0=py_0
   - py-lief=0.10.1=py38h403a769_0
-  - py4j=0.10.7=py_1
   - pycodestyle=2.6.0=py_0
   - pycosat=0.6.3=py38h7b6447c_1
   - pycparser=2.20=py_2
@@ -256,7 +255,7 @@ dependencies:
   - pygments=2.7.2=pyhd3eb1b0_0
   - pylint=2.6.0=py38_0
   - pymeeus=0.3.7=pyh9f0ad1d_0
-  - pymongo=3.11.3=py38h2531618_0
+  - pymongo=3.11.4=py38h2531618_0
   - pyodbc=4.0.30=py38he6710b0_0
   - pyopenssl=19.1.0=py_1
   - pyparsing=2.4.7=py_0
@@ -264,7 +263,6 @@ dependencies:
   - pyqt=5.9.2=py38h05f1152_4
   - pyrsistent=0.17.3=py38h7b6447c_0
   - pysocks=1.7.1=py38_0
-  - pyspark=2.4.4=py_0
   - pystan=2.19.1.1=py38hc5bc63f_2
   - pytables=3.6.1=py38h9fd0a39_0
   - pytest=6.1.1=py38_0
@@ -401,6 +399,7 @@ dependencies:
     - preshed==3.0.5
     - prometheus-flask-exporter==0.18.1
     - protobuf==3.15.6
+    - py4j==0.10.9
     - pyarrow==4.0.1
     - pyasn1==0.4.8
     - pyasn1-modules==0.2.8
