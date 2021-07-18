@@ -1,8 +1,9 @@
 #Note - reuses some code from chapter 3
 from pyspark.sql import SparkSession
 from pyspark import SparkContext
-from pyspark.sql.types import StringType, IntegerType
+from pyspark.sql.types import StringType, IntegerType, DoubleType
 from pyspark.sql import functions as f
+from pyspark.sql.functions import pandas_udf, udf
 from pprint import pprint
 
 # Create spark context
@@ -54,11 +55,18 @@ from pyspark.sql.functions import struct
 df = spark.createDataFrame(X.tolist())
 # df.withColumn('my_predictions', loaded_model(struct(['_{}'.format(x) for x in range(1, 14)]))).show()
 
-@udf(returnType=IntegerType())
-def predict_udf(*cols):
-    return int(model.pred)
+#@udf(returnType=IntegerType())
 
+import pandas as pd
+@pandas_udf(returnType=DoubleType())
+def predict_pd_udf(*cols):
+    X = pd.concat(cols, axis=1)
+    return pd.Series(X[:,0])
 
+col_names = ['_{}'.format(x) for x in range(1, 14)]
+
+df_pred = df.select(predict_pd_udf(*col_names).alias('class'))
+df_pred.take(5)
 
 
 
