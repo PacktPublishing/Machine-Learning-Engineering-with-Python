@@ -11,7 +11,7 @@ Machine Learning Engineering with Python
 * **Chapter 7** - Worked Example of User Defined Package and ML Microservice
 * **Chapter 8** - Worked example of ETML (Extract Transform Machine Learn)
 
-Chapter progress (last updated 9th May 2021)
+Chapter progress (last updated 18th July 2021)
 
 | Chapter | Prelim Draft Complete | Accepted | TR Accepted |
 | --- | --- | --- | --- |
