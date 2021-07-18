@@ -15,12 +15,12 @@ Chapter progress (last updated 9th May 2021)
 
 | Chapter | Prelim Draft Complete | Accepted | TR Accepted |
 | --- | --- | --- | --- |
-| 1 | :heavy_check_mark: | :heavy_check_mark: | |
-| 2 | :heavy_check_mark: | :heavy_check_mark: | |
+| 1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |
+| 2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 3 | :heavy_check_mark: | :heavy_check_mark: | |
-| 4 | :heavy_check_mark: |  | |
-| 5 |  | | |
-| 6 |  | | |
+| 4 | :heavy_check_mark: | | |
+| 5 | :heavy_check_mark: | | |
+| 6 | :heavy_check_mark: | | |
 | 7 |  |  | |
 | 8 |  |  | |
 
