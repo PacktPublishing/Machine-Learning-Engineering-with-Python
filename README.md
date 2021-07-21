@@ -13,7 +13,7 @@ Machine Learning Engineering with Python
 
 Chapter progress (last updated 18th July 2021)
 
-| Chapter | Prelim Draft Complete | Accepted | TR Feedback Received | Final Draft Accepted |
+| Chapter | Prelim Draft Complete | Draft Reviewed | TR Feedback Received | Final Draft Accepted |
 | --- | --- | --- | --- | -- |
 | 1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |
 | 2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |
