@@ -8,8 +8,8 @@ Machine Learning Engineering with Python
 * **Chapter 4** - User Defined Libraries
 * **Chapter 5** - Deployment Architecture and Tools
 * **Chapter 6** - Scaling Up
-* **Chapter 7** - Worked Example of User Defined Package and ML Microservice
-* **Chapter 8** - Worked example of ETML (Extract Transform Machine Learn)
+* **Chapter 7** - ML Microservice Use Case
+* **Chapter 8** - Extract Transform Machine Learn (ETML) Use Case
 
 Chapter progress (last updated 18th July 2021)
 
