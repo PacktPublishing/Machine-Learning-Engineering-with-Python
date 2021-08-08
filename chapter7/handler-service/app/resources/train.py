@@ -33,11 +33,10 @@ class TrainingHandler(Resource):
         return jsonify(result)
 
 
-class Forecaster(object):
+class Trainer(object):
 
     def __init__(self, model_config=None):
-        # Do stuff using model config, for example configure MLFLow server addresses
-        self.model = None  # placeholder for later
+
 
     def forecast(self, params={}, steps=10):
         if self.model is None:
