@@ -2,13 +2,19 @@
 # upon later.
 from flask import Flask
 from flask_restful import Api, Resource
+from resources.config import *
 from resources.forecast import ForecastHandler, Forecaster
+from resources.train import TrainingHandler, Trainer
+from resources.session import ForecastSession
 import logging
 
 app = Flask(__name__)
 api = Api(app)
 
-forecaster = Forecaster()
+forecast_session = ForecastSession()
+forecaster = Forecaster(forecast_session)
+trainer = Trainer(forecast_session)
+
 api.add_resource(ForecastHandler, '/forecast', resource_class_kwargs={'forecaster': forecaster})
 
 if __name__ == '__main__':
