@@ -2,12 +2,12 @@ import pytest
 from outliers.detectors.detection_models import DetectionModels
 from outliers.detectors.pipelines import OutlierDetector
 from outliers.definitions import MODEL_CONFIG_PATH
-from outliers.utils.data import create_data
+import outliers.utils.data
 import numpy as np
 
 @pytest.fixture()
 def dummy_data():
-    data = create_data()
+    data = outliers.utils.data.create_data()
     return data
 
 @pytest.fixture()
