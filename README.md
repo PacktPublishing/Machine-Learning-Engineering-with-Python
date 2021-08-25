@@ -19,10 +19,10 @@ Chapter progress (last updated 18th July 2021)
 | 2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |
 | 3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
 | 4 | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | |
-| 5 | :heavy_check_mark: |  :heavy_check_mark:| | |
-| 6 | :heavy_check_mark: |  :heavy_check_mark:| | |
-| 7 |  |  | | |
-| 8 |  |  | | |
+| 5 | :heavy_check_mark: |  :heavy_check_mark:|:heavy_check_mark:  | |
+| 6 | :heavy_check_mark: |  :heavy_check_mark:| :heavy_check_mark: | |
+| 7 | :heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark: | |
+| 8 | :heavy_check_mark:|  :heavy_check_mark: | :heavy_check_mark:| |
 
 
 ## Setting Up
