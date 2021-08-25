@@ -11,7 +11,7 @@ Machine Learning Engineering with Python
 * **Chapter 7** - ML Microservice Use Case
 * **Chapter 8** - Extract Transform Machine Learn (ETML) Use Case
 
-Chapter progress (last updated 18th July 2021)
+Chapter progress (last updated 25th August 2021)
 
 | Chapter | Prelim Draft Complete | Draft Reviewed | TR Feedback Received | Final Draft Accepted |
 | --- | --- | --- | --- | -- |
