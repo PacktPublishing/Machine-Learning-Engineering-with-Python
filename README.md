@@ -59,3 +59,8 @@ Ended up running this [tutorial](https://www.liquidweb.com/kb/how-to-install-apa
 ```
 
 I also had to perform this [hack](https://www.programmersought.com/article/82621638955/)
+
+### Some potential gotchas
+
+1. It is relatively common to get your AWS config credentials mixed up, especially if you have multiple accounts (for example root and user accounts). Make sure you are using the correct account credentials when using the aws cli.
+2. AWS Forecast (used in chapter 7) only works on certain regions, so if your account has a default region that is different to this you will need to specify another region upon calling the Forecast service through the cli or API.
