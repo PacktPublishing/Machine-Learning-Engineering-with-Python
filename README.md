@@ -1,66 +1,65 @@
-# Machine-Learning-Engineering-with-Python
-Machine Learning Engineering with Python
+# Machine Learning Engineering with Python
+
+<a href="https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259"><img src="https://static.packt-cdn.com/products/9781801079259/cover/smaller" alt="Machine Learning Engineering with Pythone" height="256px" align="right"></a>
+
+This is the code repository for [Machine Learning Engineering with Python](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259), published by Packt.
+
+**Subtitle from EPIC**
+
+## What is this book about?
+Machine learning engineering is a thriving discipline at the interface of software development and machine learning. This book will help developers working with machine learning and Python to put their knowledge to work and create high-quality machine learning products and services.
 
 
-* **Chapter 1** - Introduction to Machine Learning Engineering
-* **Chapter 2** - The Machine Learning Development Process
-* **Chapter 3** - From Model To Model Factory
-* **Chapter 4** - User Defined Libraries
-* **Chapter 5** - Deployment Architecture and Tools
-* **Chapter 6** - Scaling Up
-* **Chapter 7** - ML Microservice Use Case
-* **Chapter 8** - Extract Transform Machine Learn (ETML) Use Case
+This book covers the following exciting features: 
 
-Chapter progress (last updated 25th August 2021)
+* Find out what an effective ML engineering process looks like
+* Uncover options for automating training and deployment and learn how to use them
+* Discover how to build your own wrapper libraries for encapsulating your data science and machine learning logic and solutions
+* Understand what aspects of software engineering you can bring to machine learning
+* Gain insights into adapting software engineering for machine learning using appropriate cloud technologies
 
-| Chapter | Prelim Draft Complete | Draft Reviewed | TR Feedback Received | Final Draft Accepted |
-| --- | --- | --- | --- | -- |
-| 1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |
-| 2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |
-| 3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
-| 4 | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 5 | :heavy_check_mark: |  :heavy_check_mark:|:heavy_check_mark:  | |
-| 6 | :heavy_check_mark: |  :heavy_check_mark:| :heavy_check_mark: | |
-| 7 | :heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark: | |
-| 8 | :heavy_check_mark:|  :heavy_check_mark: | :heavy_check_mark:| |
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801079250) today!
+
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+alt="https://www.packtpub.com/" border="5" /></a>
 
 
-## Setting Up
+## Instructions and Navigations
+All of the code is organized into folders. For example, Chapter02.
 
-
-### PySpark
-```bash
- conda install -c conda-forge pyspark 
+The code will look like the following:
 ```
-### Spark
-I suggest following an online tutorial like [this](https://dltlabs.medium.com/how-to-install-pyspark-13a07da0c75f) or [this](https://phoenixnap.com/kb/install-spark-on-ubuntu).
-
-If on Ubuntu you may have to install Java and Scala if not already installed, I did this by
-
-```bash
-sudo apt install default-jre
-sudo apt install default-jdk
-sudo apt install scala
+[default]
+exten => s,1,Dial(Zap/1|30)
+exten => s,2,Voicemail(u100)
+exten => s,102,Voicemail(b100)
+exten => i,1,Voicemail(s0)
 ```
 
-Ended up running this [tutorial](https://www.liquidweb.com/kb/how-to-install-apache-spark-on-ubuntu/) with the following changes
+**Following is what you need for this book:**
+This book is for machine learning engineers, data scientists, and software developers who want to build robust software solutions with machine learning components. If you're someone who manages or wants to understand the production life cycle of these systems, you'll find this book useful. Intermediate-level knowledge of Python is necessary.
 
-1. Extracted spark standalone in /usr/local/spark
-2. Used my conda python dist for PYSPARK_PYTHON
-```bash
-(base) andrew@andrew-ThinkStation-P300:/home$ echo $SPARK_HOME
-/usr/local/spark
 
-(base) andrew@andrew-ThinkStation-P300:/home$ echo $PYSPARK_PYTHON
-/home/andrew/anaconda3/bin/python
+With the following software and hardware list you can run all code files present in the book (Chapter 1-8).
 
-(base) andrew@andrew-ThinkStation-P300:/home$ echo $PATH
-/home/andrew/anaconda3/bin:/home/andrew/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/bin:/sbin:/usr/local/spark/bin:/usr/local/spark/sbin
-```
+### Software and Hardware List
 
-I also had to perform this [hack](https://www.programmersought.com/article/82621638955/)
+| Chapter  | Software required                   | OS required                        |
+| -------- | ------------------------------------| -----------------------------------|
+| 1  - 8      | Python 3, Anaconda, Docker                    | Windows, Mac OS X, and Linux (Any) |
 
-### Some potential gotchas
 
-1. It is relatively common to get your AWS config credentials mixed up, especially if you have multiple accounts (for example root and user accounts). Make sure you are using the correct account credentials when using the aws cli.
-2. AWS Forecast (used in chapter 7) only works on certain regions, so if your account has a default region that is different to this you will need to specify another region upon calling the Forecast service through the cli or API.
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801079259_ColorImages.pdf).
+
+### Related products <Other books you may enjoy>
+* Engineering MLOps [[Packt]](https://www.packtpub.com/product/engineering-mlops/9781800562882) [[Amazon]](https://www.amazon.com/dp/1800562888)
+
+* Machine Learning Engineering with MLflow [[Packt]](https://www.packtpub.com/product/machine-learning-engineering-with-mlflow/9781800560796) [[Amazon]](https://www.amazon.com/dp/1800560796)
+
+## Get to Know the Author
+**Andrew Peter (Andy) McMahon**
+is a machine learning engineer and data scientist with experience of working in, and leading, successful analytics and software teams. His expertise centers on building production-grade ML systems that can deliver value at scale. He is currently ML Engineering Lead at NatWest Group and was previously Analytics Team Lead at Aggreko.
+
+He has an undergraduate degree in theoretical physics from the University of Glasgow, as well as master's and Ph.D. degrees in condensed matter physics from Imperial College London. In 2019, Andy was named Data Scientist of the Year at the International Data Science Awards. He currently co-hosts the AI Right podcast, discussing hot topics in AI with other members of the Scottish tech scene.
+
+
