@@ -4,7 +4,7 @@
 
 This is the code repository for [Machine Learning Engineering with Python](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259), published by Packt.
 
-**Subtitle from EPIC**
+**Manage the production life cycle of machine learning models using MLOps with practical examples**
 
 ## What is this book about?
 Machine learning engineering is a thriving discipline at the interface of software development and machine learning. This book will help developers working with machine learning and Python to put their knowledge to work and create high-quality machine learning products and services.
