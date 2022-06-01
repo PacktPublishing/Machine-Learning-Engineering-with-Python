@@ -74,7 +74,7 @@ def train_predict(df_all_data, df_all_train_index, seasonality_params=seasonalit
 
 if __name__ == "__main__":
     # Read in Data
-    df = pd.read_csv('../../chapter1/forecasting-api/data/demand-forecasting-kernels-only/train.csv')
+    df = pd.read_csv('../../Chapter01/forecasting-api/data/demand-forecasting-kernels-only/train.csv')
     df.rename(columns={'date': 'ds', 'sales': 'y'}, inplace=True)
     # Filter out store and item 1
     df_store1_item1 = df[(df['store'] == 1) & (df['item'] == 1)].reset_index(drop=True)
