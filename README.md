@@ -63,3 +63,7 @@ is a machine learning engineer and data scientist with experience of working in,
 He has an undergraduate degree in theoretical physics from the University of Glasgow, as well as master's and Ph.D. degrees in condensed matter physics from Imperial College London. In 2019, Andy was named Data Scientist of the Year at the International Data Science Awards. He currently co-hosts the AI Right podcast, discussing hot topics in AI with other members of the Scottish tech scene.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801079259">https://packt.link/free-ebook/9781801079259 </a> </p>
